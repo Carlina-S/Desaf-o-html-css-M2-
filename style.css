@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.tt {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header,nav,main,br,footer{
+    background-color: rgb(133, 136, 136);
+}
+
+h1{
+    color: white;
+    font-family:Arial;
+    font-weight: 100;
+}
+
+h1 b{ 
+    color: white;
+    font-family:Arial;
+    font-weight: 900;
+}
